@@ -172,36 +172,7 @@ Day 2 provided practical experience in developing scalable Salesforce applicatio
 
 ---
 
-# 📁 Repository Structure
 
-```
-Day_2/
-│
-├── Apex/
-│   ├── VehicleTrigger.trigger
-│   ├── VehicleTriggerHandler.cls
-│   ├── VehicleFutureHandler.cls
-│   ├── VehicleQueueableHandler.cls
-│   ├── VehicleBatchHandler.cls
-│   └── VehicleController.cls
-│
-├── LWC/
-│   ├── vehicleParent/
-│   └── vehicleChild/
-│
-├── Screenshots/
-│   ├── Trigger_Execution.png
-│   ├── Governor_Limit_Error.png
-│   ├── Bulkified_Success.png
-│   ├── Future_Apex_Job.png
-│   ├── Queueable_Apex_Job.png
-│   ├── Batch_Apex_Job.png
-│   ├── Parent_To_Child.png
-│   ├── Child_To_Parent.png
-│   └── Lightning_App_Page.png
-│
-└── README.md
-```
 
 ---
 
